@@ -1,5 +1,7 @@
 Color Hunter: RGB-Based Computer Vision Game
 
+Youtube Video Link of Running Project and Gameplay: https://youtu.be/EyuKBQZqQCI
+
 Color Hunter is a real-time interactive game that uses computer vision to turn your environment into a playground. 
 Developed with Java and OpenCV, the game tests your speed and perception by requiring you to find and present real-world objects matching a specific RGB target color before the timer runs out.
 
@@ -27,3 +29,7 @@ The core technical challenge of this project was balancing intensive mathematica
 My solution involved decoupling the processing logic from the rendering engine using Java's concurrency tools. 
 While currently optimized for Red, Green, and Blue, the system's modular design allows for future expansion into complex color spaces like HSV. 
 This project serves as a strong demonstration of real-time system design and interactive software development.
+
+Image of our Project presentation in University:
+![IMG_3024](https://github.com/user-attachments/assets/dec4c5c3-a249-405f-916b-4ff28444f342)
+
